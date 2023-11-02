@@ -3,7 +3,7 @@ PROJECT DESCRIPTION
 
 PROJECT ROADMAP
 The project is divided in two parts:
-1.Data Cleaning
+<br>1.Data Cleaning
 2.Exploratory Data Analysis
 3.Feature engineering & Feature selection
 4.Model creation & Model evaluation
