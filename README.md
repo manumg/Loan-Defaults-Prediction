@@ -2,12 +2,17 @@
 PROJECT DESCRIPTION
 
 PROJECT ROADMAP
-<br>The project is divided in two parts:
-<br>1.Data Cleaning
-<br>2.Exploratory Data Analysis
-<br>3.Feature engineering & Feature selection
-<br>4.Model creation & Model evaluation
-<br>5.Conclusions
+
+The project is divided in two parts:
+
+1.Data Cleaning
+
+2.Exploratory Data Analysis
+
+3.Feature engineering & Feature selection
+
+4.Model creation & Model evaluation
+5.Conclusions
 
 <br>The first two parts are developed in the EDA notebook, while the rest are developed in the Model Creation Notebook
 
