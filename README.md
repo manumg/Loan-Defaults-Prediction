@@ -3,7 +3,7 @@ PROJECT DESCRIPTION
 
 PROJECT ROADMAP
 
-The project is divided in two parts:
+The project is divided in five parts:
 
 1.Data Cleaning
 
